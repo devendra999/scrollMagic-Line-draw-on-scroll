@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 208 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Desktop-Homepage-Update-2C">
+        <g id="content">
+            <g id="Tranformation">
+                <path id="Line-2" d="M48,153.512L66.601,102.759" style="fill:none;stroke:rgb(30,29,75);stroke-width:2px;stroke-dasharray:12,10;"/>
+                <path id="Line-21" serif:id="Line-2" d="M111.048,133.089L81.375,100.895" style="fill:none;stroke:rgb(30,29,75);stroke-width:2px;stroke-dasharray:10,8;"/>
+                <path id="Line-22" serif:id="Line-2" d="M131.142,129.992L147.148,86.083" style="fill:none;stroke:rgb(30,29,75);stroke-width:2px;stroke-dasharray:10,8;"/>
+                <circle id="Oval" cx="44" cy="164" r="12" style="fill:rgb(222,22,82);"/>
+                <circle id="Oval1" serif:id="Oval" cx="72" cy="88" r="16" style="fill:rgb(222,22,82);"/>
+                <circle id="Oval2" serif:id="Oval" cx="124" cy="148" r="20" style="fill:rgb(222,22,82);"/>
+                <circle id="Oval3" serif:id="Oval" cx="156" cy="60" r="28" style="fill:rgb(222,22,82);"/>
+            </g>
+        </g>
+    </g>
+</svg>

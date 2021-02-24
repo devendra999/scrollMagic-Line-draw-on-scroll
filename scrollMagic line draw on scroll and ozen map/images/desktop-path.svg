@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="1850px" viewBox="0 0 148 1850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>desktop-path</title>
+    <defs>
+        <linearGradient x1="50%" y1="7.06935325%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBAB26" offset="0%"></stop>
+            <stop stop-color="#F37121" offset="49.7760052%"></stop>
+            <stop stop-color="#DE1652" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="12,20" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Desktop-Homepage-Update-2A" transform="translate(-645.000000, -824.000000)" stroke="url(#linearGradient-1)" stroke-width="4">
+            <g id="content" transform="translate(0.000000, 608.000000)">
+                <path d="M702,218 C682,418.363885 795.064639,482.160124 716,641.554036 C599,877.425445 837.354701,1030.29962 744,1240 C670.545073,1405 612.607992,1541.33178 672,1682 C731.392008,1822.66822 851.856024,1828 752,2072" id="desktop-path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
